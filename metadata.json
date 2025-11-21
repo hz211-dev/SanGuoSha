@@ -1,0 +1,5 @@
+{
+  "name": "AI Three Kingdoms Duel (SanGuoSha)",
+  "description": "A 1v1 strategy card game based on the popular 'Three Kingdoms Kill'. Battle against a Gemini-powered AI opponent using Slashes, Dodges, and Strategy cards.",
+  "requestFramePermissions": []
+}
